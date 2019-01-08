@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "681b98cbd7954d87bd466aa59e309bb6"
+build_time: [1546969880, 856785000]
+inputs:
+  "/Users/bill/Documents/ios_projects/Swift/ReferenceApps/RxDataSource_CollectionViewTest/RxDataSource_CollectionViewTest/ViewController.swift": [1546912835, 0]
+  "/Users/bill/Documents/ios_projects/Swift/ReferenceApps/RxDataSource_CollectionViewTest/RxDataSource_CollectionViewTest/AppDelegate.swift": [1546912835, 0]
