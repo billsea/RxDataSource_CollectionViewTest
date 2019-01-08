@@ -1,6 +1,6 @@
 version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
 options: "2aaa31292550c32221416ad27f45a8a5"
-build_time: [1546971181, 916803000]
+build_time: [1546971389, 985951000]
 inputs:
   "/Users/bill/Documents/ios_projects/Swift/ReferenceApps/RxDataSource_CollectionViewTest/Pods/RxCocoa/Platform/DataStructures/Bag.swift": [1546912835, 0]
   "/Users/bill/Documents/ios_projects/Swift/ReferenceApps/RxDataSource_CollectionViewTest/Pods/RxCocoa/RxCocoa/Traits/Driver/BehaviorRelay+Driver.swift": [1546912835, 0]

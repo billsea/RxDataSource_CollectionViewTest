@@ -1,6 +1,6 @@
 version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
 options: "1ddf8b3a8eafc5bcb18bb2c5bd23c3c5"
-build_time: [1546971168, 673082000]
+build_time: [1546971381, 816437000]
 inputs:
   "/Users/bill/Documents/ios_projects/Swift/ReferenceApps/RxDataSource_CollectionViewTest/Pods/RxSwift/RxSwift/Observables/AddRef.swift": [1546912835, 0]
   "/Users/bill/Documents/ios_projects/Swift/ReferenceApps/RxDataSource_CollectionViewTest/Pods/RxSwift/RxSwift/Observables/Amb.swift": [1546912835, 0]

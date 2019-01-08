@@ -1,0 +1,16 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "1b4541e11ddd10ceb50be5777419b6e5"
+build_time: [1546972180, 234929000]
+inputs:
+  "/Users/bill/Documents/ios_projects/Swift/ReferenceApps/RxDataSource_CollectionViewTest/Pods/Differentiator/Sources/Differentiator/AnimatableSectionModel.swift": [1546912835, 0]
+  "/Users/bill/Documents/ios_projects/Swift/ReferenceApps/RxDataSource_CollectionViewTest/Pods/Differentiator/Sources/Differentiator/AnimatableSectionModelType+ItemPath.swift": [1546912835, 0]
+  "/Users/bill/Documents/ios_projects/Swift/ReferenceApps/RxDataSource_CollectionViewTest/Pods/Differentiator/Sources/Differentiator/AnimatableSectionModelType.swift": [1546912835, 0]
+  "/Users/bill/Documents/ios_projects/Swift/ReferenceApps/RxDataSource_CollectionViewTest/Pods/Differentiator/Sources/Differentiator/Changeset.swift": [1546912835, 0]
+  "/Users/bill/Documents/ios_projects/Swift/ReferenceApps/RxDataSource_CollectionViewTest/Pods/Differentiator/Sources/Differentiator/Diff.swift": [1546912835, 0]
+  "/Users/bill/Documents/ios_projects/Swift/ReferenceApps/RxDataSource_CollectionViewTest/Pods/Differentiator/Sources/Differentiator/IdentifiableType.swift": [1546912835, 0]
+  "/Users/bill/Documents/ios_projects/Swift/ReferenceApps/RxDataSource_CollectionViewTest/Pods/Differentiator/Sources/Differentiator/IdentifiableValue.swift": [1546912835, 0]
+  "/Users/bill/Documents/ios_projects/Swift/ReferenceApps/RxDataSource_CollectionViewTest/Pods/Differentiator/Sources/Differentiator/ItemPath.swift": [1546912835, 0]
+  "/Users/bill/Documents/ios_projects/Swift/ReferenceApps/RxDataSource_CollectionViewTest/Pods/Differentiator/Sources/Differentiator/Optional+Extensions.swift": [1546912835, 0]
+  "/Users/bill/Documents/ios_projects/Swift/ReferenceApps/RxDataSource_CollectionViewTest/Pods/Differentiator/Sources/Differentiator/SectionModel.swift": [1546912835, 0]
+  "/Users/bill/Documents/ios_projects/Swift/ReferenceApps/RxDataSource_CollectionViewTest/Pods/Differentiator/Sources/Differentiator/SectionModelType.swift": [1546912835, 0]
+  "/Users/bill/Documents/ios_projects/Swift/ReferenceApps/RxDataSource_CollectionViewTest/Pods/Differentiator/Sources/Differentiator/Utilities.swift": [1546912835, 0]

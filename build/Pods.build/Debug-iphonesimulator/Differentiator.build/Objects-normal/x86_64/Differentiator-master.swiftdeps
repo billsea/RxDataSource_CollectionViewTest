@@ -1,6 +1,6 @@
 version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
 options: "88793440abb721496a2ff46953e261cd"
-build_time: [1546971167, 998693000]
+build_time: [1546971381, 572111000]
 inputs:
   "/Users/bill/Documents/ios_projects/Swift/ReferenceApps/RxDataSource_CollectionViewTest/Pods/Differentiator/Sources/Differentiator/AnimatableSectionModel.swift": [1546912835, 0]
   "/Users/bill/Documents/ios_projects/Swift/ReferenceApps/RxDataSource_CollectionViewTest/Pods/Differentiator/Sources/Differentiator/AnimatableSectionModelType+ItemPath.swift": [1546912835, 0]
