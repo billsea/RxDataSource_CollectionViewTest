@@ -1,0 +1,20 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "73a5f12d6e14c2485eff3615d7075626"
+build_time: [1546971186, 793924000]
+inputs:
+  "/Users/bill/Documents/ios_projects/Swift/ReferenceApps/RxDataSource_CollectionViewTest/Pods/RxDataSources/Sources/RxDataSources/AnimationConfiguration.swift": [1546912835, 0]
+  "/Users/bill/Documents/ios_projects/Swift/ReferenceApps/RxDataSource_CollectionViewTest/Pods/RxDataSources/Sources/RxDataSources/Array+Extensions.swift": [1546912835, 0]
+  "/Users/bill/Documents/ios_projects/Swift/ReferenceApps/RxDataSource_CollectionViewTest/Pods/RxDataSources/Sources/RxDataSources/CollectionViewSectionedDataSource.swift": [1546912835, 0]
+  "/Users/bill/Documents/ios_projects/Swift/ReferenceApps/RxDataSource_CollectionViewTest/Pods/RxDataSources/Sources/RxDataSources/DataSources.swift": [1546912835, 0]
+  "/Users/bill/Documents/ios_projects/Swift/ReferenceApps/RxDataSource_CollectionViewTest/Pods/RxDataSources/Sources/RxDataSources/Deprecated.swift": [1546912835, 0]
+  "/Users/bill/Documents/ios_projects/Swift/ReferenceApps/RxDataSource_CollectionViewTest/Pods/RxDataSources/Sources/RxDataSources/FloatingPointType+IdentifiableType.swift": [1546912835, 0]
+  "/Users/bill/Documents/ios_projects/Swift/ReferenceApps/RxDataSource_CollectionViewTest/Pods/RxDataSources/Sources/RxDataSources/IntegerType+IdentifiableType.swift": [1546912835, 0]
+  "/Users/bill/Documents/ios_projects/Swift/ReferenceApps/RxDataSource_CollectionViewTest/Pods/RxDataSources/Sources/RxDataSources/RxCollectionViewSectionedAnimatedDataSource.swift": [1546912835, 0]
+  "/Users/bill/Documents/ios_projects/Swift/ReferenceApps/RxDataSource_CollectionViewTest/Pods/RxDataSources/Sources/RxDataSources/RxCollectionViewSectionedReloadDataSource.swift": [1546912835, 0]
+  "/Users/bill/Documents/ios_projects/Swift/ReferenceApps/RxDataSource_CollectionViewTest/Pods/RxDataSources/Sources/RxDataSources/RxPickerViewAdapter.swift": [1546912835, 0]
+  "/Users/bill/Documents/ios_projects/Swift/ReferenceApps/RxDataSource_CollectionViewTest/Pods/RxDataSources/Sources/RxDataSources/RxTableViewSectionedAnimatedDataSource.swift": [1546912835, 0]
+  "/Users/bill/Documents/ios_projects/Swift/ReferenceApps/RxDataSource_CollectionViewTest/Pods/RxDataSources/Sources/RxDataSources/RxTableViewSectionedReloadDataSource.swift": [1546912835, 0]
+  "/Users/bill/Documents/ios_projects/Swift/ReferenceApps/RxDataSource_CollectionViewTest/Pods/RxDataSources/Sources/RxDataSources/String+IdentifiableType.swift": [1546912835, 0]
+  "/Users/bill/Documents/ios_projects/Swift/ReferenceApps/RxDataSource_CollectionViewTest/Pods/RxDataSources/Sources/RxDataSources/TableViewSectionedDataSource.swift": [1546912835, 0]
+  "/Users/bill/Documents/ios_projects/Swift/ReferenceApps/RxDataSource_CollectionViewTest/Pods/RxDataSources/Sources/RxDataSources/UI+SectionedViewType.swift": [1546912835, 0]
+  "/Users/bill/Documents/ios_projects/Swift/ReferenceApps/RxDataSource_CollectionViewTest/Pods/RxDataSources/Sources/RxDataSources/ViewTransition.swift": [1546912835, 0]
